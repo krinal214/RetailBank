@@ -1,0 +1,29 @@
+
+th, td {
+  padding: 8px;
+}
+th {
+	background-color:00FF00;
+}
+h1{
+	text-align:center;
+}
+table input[type="text"]{
+	font-size:20px;
+	width:100%;
+	box-sizing: border-box;
+}
+table input[type="password"]{
+	font-size:20px;
+	width:100%;
+	box-sizing: border-box;
+}
+button
+{
+	font-size:20px;
+}
+table
+{
+margin-right:auto;
+margin-left:auto;
+	}

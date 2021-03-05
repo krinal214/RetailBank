@@ -1,0 +1,152 @@
+DOD for User Story US001:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US002:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US003:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US004:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US005:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US006:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US007:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US008:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US009:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US010:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US011:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US012:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US013:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+DOD for User Story US014:
+
+coding for story completed
+code review done
+builds without errors
+No extra variables or import statement checked
+acceptance criteria for story met
+functionality testing completed
+
+
+
+
+
+DOD for Sprint end increment:
+
+all stories have satisfied “DOD for story”
+performance tested
+acceptance tested
+no high severity defects open
+system docs and user docs updated
+
+
